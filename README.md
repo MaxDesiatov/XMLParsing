@@ -1,5 +1,5 @@
 # XMLParsing
-Encoder &amp; Decoder for XML using Swift's _codable_ protocol.
+Encoder &amp; Decoder for XML using Swift's _codable_ protocol. This fork is deprecated, you're encouraged to use [XMLCoder](https://github.com/MaxDesiatov/XMLCoder), which has better test coverage and bugfixes/changes applied.
 
 ## Installation
 
